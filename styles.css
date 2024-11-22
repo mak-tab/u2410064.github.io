@@ -1,0 +1,65 @@
+body {
+    background-color: #87CEEB;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+h1 {
+    color: #0000FF;
+    text-align: center;
+    text-shadow: 
+        -1px -1px 0 #000000, 
+        1px -1px 0 #000000,
+        -1px 1px 0 #000000,  
+        1px 1px 0 #000000;
+}
+
+h2, h3 {
+    color: #FFFF00;
+    text-shadow: 
+        -1px -1px 0 #000000, 
+        1px -1px 0 #000000,
+        -1px 1px 0 #000000,  
+        1px 1px 0 #000000;
+}
+
+p {
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 1.5;
+text-shadow: 
+        -1px -1px 0 #000000, 
+        1px -1px 0 #000000,
+        -1px 1px 0 #000000,  
+        1px 1px 0 #000000;
+}
+
+b {
+    color: #FFFFFF;
+    font-size: 18px;
+    text-shadow: 
+        -2px -2px 0 #000000, 
+        2px -2px 0 #000000,
+        -2px 2px 0 #000000,  
+        2px 2px 0 #000000;
+}
+
+ul, ol {
+    color: #FFFFFF;
+    font-style: italic;
+    margin-left: 20px;
+    text-shadow: 
+        -1px -1px 0 #000000, 
+        1px -1px 0 #000000,
+        -1px 1px 0 #000000,  
+        1px 1px 0 #000000;
+}
+a {
+    font-style: italic;
+    margin-left: 20px;
+    text-shadow: 
+        -0.5px -0.5px 0 #000000, 
+        0.5px -0.5px 0 #000000,
+        -0.5px 0.5px 0 #000000,  
+        0.5px 0.5px 0 #000000;
+}
